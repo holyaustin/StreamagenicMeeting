@@ -43,6 +43,7 @@ function App() {
     <div className="App">
       <div className="container">
         <div>
+        <img src="logolongwhite.png" alt="logo" />
           <br />
 
           {Object.keys(huddleIframeApp.methods)
