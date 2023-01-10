@@ -1,0 +1,26 @@
+.App {
+  text-align: center;
+  background-color: #282c34;
+  height: 100vh;
+  display: grid;
+  place-items: center;
+}
+
+.container {
+  width: 100%;
+}
+
+button {
+  background: #246bfd;
+  color: white;
+  border: none;
+  padding: 0.5rem 0.75rem;
+  margin: 0.75rem 0.5rem;
+  border-radius: 0.25rem;
+  font-weight: bold;
+  cursor: pointer;
+}
+
+button:hover {
+  opacity: 0.75;
+}
